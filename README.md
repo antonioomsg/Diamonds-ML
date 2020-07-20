@@ -1,7 +1,4 @@
-
-<p align="center">
-  <gif src=https://github.com/antonioomsg/Diamonds-ML/blob/master/imputs/Diamante-88735.gif" />
-</p>
+![Alt Text](https://github.com/antonioomsg/Diamonds-ML/blob/master/imputs/Diamante-88735.gif)
 
 # Entrenamos diferentes modelos de Machine Learning para preveer los precios de los diamantes segun sus caracteristicas.
 
